@@ -2,8 +2,7 @@
 <!--  -->
 
 # 💫 About Me:
-Programador autodidacta con más de 2 años de experiencia en el mundo del desarrollo web, me apasiona aprender cosas nuevas, algo que me caracteriza es la responsabilidad que tomo en todos los proyectos que realizo, no solo de escribir código, si no de también tener una visión crítica del producto, las funcionalidades y el negocio.Programador autodidacta con más de 2 años de experiencia en el mundo del desarrollo web, me apasiona aprender cosas nuevas, algo que me caracteriza es la responsabilidad que tomo en todos los proyectos que realizo, no solo de escribir código, si no de también tener una visión crítica del producto, las funcionalidades y el negocio.
-
+Programador autodidacta con más de 2 años de experiencia en el mundo del desarrollo web, me apasiona aprender cosas nuevas, algo que me caracteriza es la responsabilidad que tomo en todos los proyectos que realizo, no solo de escribir código, si no de también tener una visión crítica del producto, las funcionalidades y el negocio.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiseduardoocegueda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@devsinfronteras) 
