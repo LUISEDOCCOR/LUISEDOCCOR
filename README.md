@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Luis Eduardo Cortes </b>👋</h1>
+<h1 align="center"><b>Hi , I'm Luis Eduardo </b>👋</h1>
 <!--  -->
 
 # 💫 About Me:
